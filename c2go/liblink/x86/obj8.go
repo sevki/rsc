@@ -6,7 +6,7 @@ import (
 	"log"
 	"math"
 
-	"code.google.com/p/rsc/c2go/liblink"
+	"github.com/sevki/rsc/c2go/liblink"
 )
 
 // Inferno utils/8l/pass.c

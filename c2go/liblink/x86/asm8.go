@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"code.google.com/p/rsc/c2go/liblink"
+	"github.com/sevki/rsc/c2go/liblink"
 )
 
 /*

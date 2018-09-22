@@ -7,8 +7,8 @@
 package main
 
 import (
-	"code.google.com/p/rsc/c2go"
-	"code.google.com/p/rsc/cc"
+	"github.com/sevki/rsc/c2go"
+	"github.com/sevki/rsc/cc"
 )
 
 func unparen(x *cc.Expr) *cc.Expr {
